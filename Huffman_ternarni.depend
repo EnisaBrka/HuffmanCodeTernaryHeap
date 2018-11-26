@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1368799734 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_1\huffman_ternarni\huffman_ternarni\huffmancvor.cpp
+	"HuffmanCvor.h"
+	<fstream>
+
+1368001444 d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_1\huffman_ternarni\huffman_ternarni\huffmancvor.h
+	<iostream>
+	<string>
+	<ostream>
+
+1368802483 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_1\huffman_ternarni\huffman_ternarni\huffmankod.cpp
+	"HuffmanKod.h"
+	"HuffmanCvor.h"
+	<iostream>
+	<fstream>
+	<utility>
+
+1368535007 d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_1\huffman_ternarni\huffman_ternarni\huffmankod.h
+	<string>
+	<map>
+	"TernarniHeap.h"
+	"HuffmanCvor.h"
+
+1368554579 d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_1\huffman_ternarni\huffman_ternarni\ternarniheap.h
+	"HuffmanCvor.h"
+	<vector>
+
+1368798751 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_1\huffman_ternarni\huffman_ternarni\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"HuffmanKod.h"
+
+1368796725 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_1\huffman_ternarni\huffman_ternarni\ternarniheap.cpp
+	"TernarniHeap.h"
+	<fstream>
+	<iterator>
+	<vector>
+
+1369295587 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_1\huffman_gotovo\huffman_ternarni\huffmancvor.cpp
+	"HuffmanCvor.h"
+	<fstream>
+
+1369295314 d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_1\huffman_gotovo\huffman_ternarni\huffmancvor.h
+	<iostream>
+	<string>
+	<ostream>
+
+1368905245 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_1\huffman_gotovo\huffman_ternarni\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"HuffmanKod.h"
+
+1368900040 d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_1\huffman_gotovo\huffman_ternarni\huffmankod.h
+	<string>
+	<map>
+	"TernarniHeap.h"
+	"HuffmanCvor.h"
+
+1369295787 d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_1\huffman_gotovo\huffman_ternarni\ternarniheap.h
+	"HuffmanCvor.h"
+	<vector>
+
+1369295815 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_1\huffman_gotovo\huffman_ternarni\ternarniheap.cpp
+	"TernarniHeap.h"
+	<fstream>
+	<iterator>
+	<vector>
+
+1369295829 source:d:\tkn\2-napredni algoritmi i strukture podataka\vjezbe\projekat_1\huffman_gotovo\huffman_ternarni\huffmankod.cpp
+	"HuffmanKod.h"
+	"HuffmanCvor.h"
+	<iostream>
+	<fstream>
+	<utility>
+	<cstdlib>
+
